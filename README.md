@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeawsdrfgt
-- 👀 I’m interested in java and anything related to C
-- 🌱 I’m currently learning C and java
+- 👀 Currently using C and C#
+- 🌱 I’m currently learning C and Java
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me: arlasanburgers@gmail.com
 
