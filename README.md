@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jeawsdrfgt
-- 👀 Currently using C and C#
-- 🌱 I’m currently learning C and Java
-- 💞️ I’m looking to collaborate on java
+- 👋 Arnold here, don't stress yourself trying to read out my username
+- 👀 Currently using C and PHP
+- 🌱 I’m currently learning C, Java, and others
 - 📫 How to reach me: okatcharnold@gmail.com
 
 <!---
